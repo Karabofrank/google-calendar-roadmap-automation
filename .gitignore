@@ -1,0 +1,4 @@
+venv/google-calendar-roadmap-automation/
+pyvenv.cfg
+# Ignore credentials file
+client_secret_974962523933-p6l20ljd1qupb3kvb5mjvhnbp0fd377p.apps.googleusercontent.com.json
